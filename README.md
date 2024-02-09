@@ -1,4 +1,6 @@
 # 3D React Portfolio
+Note!!! Clone the project, open the folder on your PC, unzip the 'dist' and 'images' folders, then you can start customizing the portfolio according to your preferences. For further instructions, please refer to the README.md.
+#
 
 
 # Getting Started with Create React App
