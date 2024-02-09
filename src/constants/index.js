@@ -18,7 +18,7 @@ import {
       icon: "https://img.icons8.com/fluency/344/google-cloud.png",
     },
     {
-      link: "https://www.qwiklabs.com/public_profiles/48dcd029-03b4-437b-9dd3-ef7d65958eb0",
+      link: "https://www.gelbeseiten.de/branchenbuch",
       icon: "https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-qwiklabs-provides-real-cloud-environments-that-help-developers-logo-color-tal-revivo.png",
     },
     {
@@ -558,7 +558,7 @@ import {
         "Es wurden agile Methoden, CI/CD und testgetriebene Programmierung angepasst, um starke Programmierpraktiken aufrechtzuerhalten.",
         "Verwendung von Technologien wie Java, SpringBoot, C#, .NET und AngularJS.",
       ],
-      link: "#",
+      Githublink: "https://github.com/Joschy1976",
     },
     {
       title: "Research Intern",
@@ -572,7 +572,7 @@ import {
         "Zusammenarbeit mit plattformübergreifenden Technologien wie Spring Boot, React usw., um hochwertige Produkte zu integrieren.",
         "Teilnahme an Code-Reviews und Bereitstellung konstruktiven Feedbacks für andere Entwickler.",
       ],
-      link: "#",
+      Githublink: "https://github.com/SvenJanorschke",
     },
     {
       title: "DSA Mentor",
@@ -585,7 +585,7 @@ import {
         "Lehrassistent: Lehrassistent für Online-Kurse zu Datenstrukturen, Algorithmen und Wettbewerbsprogrammierung mit einer durchschnittlichen Bewertung von 4,9*.",
         "Verantwortlich für die Überprüfung und das Verfassen von Artikeln zu Datenstrukturen und Algorithmen.",
       ],
-      link: "#",
+      Githublink: "https://github.com/SvenJanorschke",
     },
     {
       title: "Technical Content Writer",
@@ -599,7 +599,7 @@ import {
         "Zog über 10.000 Besucher auf die Unternehmenswebsite mit leistungsstarkem Bildungsinhalt.",
         "Verfasste über 100 Artikel und verbesserte mehr als 300 Artikel zu Themen wie Datenstrukturen, Algorithmen, Mathematik und verwandten Ingenieurthemen.",
       ],
-      link: "#",
+      Githublink: "https://github.com/SvenJanorschke",
     },
     {
       title: "Google Cloud Training",
@@ -614,7 +614,7 @@ import {
         "Einführung in Computing, Anwendungsentwicklung, Big Data und maschinelles Lernen unter Verwendung von Googles Cloud-Trainingsplattform Qwiklabs.",
         "Zusätzliche selbstgesteuerte Übungslabore wurden auf der Plattform Qwiklabs von Google bereitgestellt.",
       ],
-      link: "#",
+      Githublink: "https://github.com/SvenJanorschke",
     },
     {
       title: "Hacktoberfest",
@@ -627,7 +627,7 @@ import {
         "Hacktoberfest ist eine jährliche weltweite Veranstaltung, die im Oktober stattfindet. Die Veranstaltung ermutigt Open-Source-Entwickler, durch Pull Requests (PR) zu Repositorys beizutragen.",
 "GitHub hostet viele Open-Source-Repositorys, die zu dieser Veranstaltung beitragen.",
       ],
-      link: "#",
+      Githublink: "https://github.com/SvenJanorschke",
     },
   ];
   
